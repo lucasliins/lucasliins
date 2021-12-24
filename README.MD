@@ -8,6 +8,8 @@
 - 🌱 I’m currently learning Javascript and web programming
 - 💞️ I’m looking to collaborate on technology and programming
 - 📫 How to reach me https://linktr.ee/lucasliins
+- ⚡ Fun fact: I  love play videogame and superhero movies, I also like watch futebol and ride a bike.  
+
 
 <div align="center">
   <a href="https://github.com/lucasliins">
