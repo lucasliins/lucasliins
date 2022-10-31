@@ -4,7 +4,7 @@
 
 
 - 👋 Hi, I’m @lucasliins
-- 👀 I’m interested programming and technology 
+- 👀 I’m interested programming, Security Operations and technology 
 - 🌱 I’m currently learning Javascript and web programming
 - 💞️ I’m looking to collaborate on technology and programming
 - 📫 How to reach me https://linktr.ee/lucasliins
